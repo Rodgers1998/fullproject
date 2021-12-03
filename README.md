@@ -1,0 +1,2 @@
+# fullproject
+djangodashboard
